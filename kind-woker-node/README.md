@@ -10,7 +10,7 @@
 
 * edit the vi etc/docker/daemon.json
 enter the code
-# {
+ {
   "exec-opts": ["native.cgroupdriver=systemd"]
 }
 
